@@ -6,15 +6,15 @@ Example usage of the Socket IO library (https://socket.io/). Rooms documentation
 
 1. Initialize front end:
 
-cd client
-npm install -g http-server
-http-server . -p 3000
+cd client  
+npm install -g http-server  
+http-server . -p 3000  
 
 2. Initialize back end:
-
-cd server
-npm install
-npm test
+ 
+cd server  
+npm install  
+npm test  
 
 3. With 4 different browser tabs, log in with the following credentials
 
