@@ -18,11 +18,13 @@ npm test
 
 3. With 4 different browser tabs, log in with the following credentials
 
-User    Pass
-matt    123
-danni   123
-joe       123
-dad      123
+matt        123
+
+danni       123
+
+joe         123
+  
+dad         123
 
 4. Have two users click game 1, and two users click game 2
 
