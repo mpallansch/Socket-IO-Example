@@ -16,7 +16,7 @@ cd server
 npm install  
 npm test  
 
-3. With 4 different browser tabs, log in with the following credentials
+3. With 4 different browser tabs, log in to http://localhost:3000 with the following credentials
 
 matt        123
 
