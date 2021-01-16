@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Multiplayer Web Game</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+      <div id="login">
+          <input id="username-field" type="text" placeholder="username" />
+          <input id="password-field" type="password" plaeholder="password" />
+          <button id="login-button">Login</button>
+      </div>
+      <div id="lobby" style="display: none;">
+          <button id="room1" class="join-game">Join game 1</button>
+          <button id="room2" class="join-game">Join game 2</button>
+      </div>
+      <div id="game" style="display: none">
+
+      </div>
+    <script src="libs/socket.io.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

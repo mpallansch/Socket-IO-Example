@@ -1,0 +1,18 @@
+#game {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(230, 230, 230);
+}
+
+.player {
+    position: absolute;
+}
+
+.player:first-child {
+    color: red;
+}
+
+.player:last-child {
+    color: blue;
+}
